@@ -1,0 +1,94 @@
+body {
+    background-color: 	#c71585;
+}
+
+.bigcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.userInputs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    text-align: center;
+    font-size: medium;
+    border-radius: 5px;
+    background-color: lightblue;
+    border: none;
+    margin-top: 20px;
+    height: 50px;
+    width: 300px;
+
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #ee82ee;
+    margin-top: 50px;
+    margin-bottom: 0px;
+
+}
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+}
+
+
+.submit-container {
+    display: flex;
+    gap: 30px;
+    margin: 30px auto;
+}
+
+.submint {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 137px;
+    height: 50px;
+    color: #fff;
+    background-color: #00ced1;
+    border: none;
+    border-radius: 50px;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.forgotPass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+span {
+    color: 	#FF0000;
+    margin: 7px;
+}
+
+.gray {
+    background-color: #fff;
+    color: gray;
+}
+
+
+
